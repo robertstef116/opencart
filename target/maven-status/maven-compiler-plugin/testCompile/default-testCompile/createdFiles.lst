@@ -1,0 +1,4 @@
+org\example\steps\serenity\UserSteps.class
+org\example\pages\OpenCartPage.class
+org\example\features\search\AddItemToCartTest.class
+org\example\features\search\LoginTest.class

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.features.search.Login" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-05-16T18:47:55" hostname="DESKTOP-CLL4PF3" time="18.246">
+  <properties/>
+  <testcase name="test_login_invalid" classname="org.example.features.search.Login" time="11.02"/>
+  <testcase name="test_login_valid" classname="org.example.features.search.Login" time="7.099"/>
+  <system-out><![CDATA[[My Account, Order History, Transactions, Downloads, Logout]
+]]></system-out>
+  <system-err><![CDATA[May 16, 2020 9:47:56 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+May 16, 2020 9:47:56 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+1589654876855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\rober\\AppData\\Local\\Temp\\rust_mozprofilenqjWhr"
+1589654877225	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1589654877251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589654877251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589654877252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589654877252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1589654879107	Marionette	INFO	Listening on port 63995
+1589654879467	Marionette	WARN	TLS certificate errors will be ignored for this session
+May 16, 2020 9:47:59 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1589654894207	Marionette	INFO	Stopped listening on port 63995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+]]></system-err>
+</testsuite>

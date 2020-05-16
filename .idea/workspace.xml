@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30e74385-3f24-4f46-a60c-0448dc3149ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/search/AddItemToCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/search/AddItemToCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/search/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/search/LoginTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VVSSLab5V4" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VVSSLab5V4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="VVSSLab5V4" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXlS9q7QZeRPd7Wyl0Mar8Ox7f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rober\Desktop\abcd\VVSSLab5V4\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn serenity:aggregate" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'org.example.features.search'">
+    <configuration name="AddItemToCart.add_to_cart_test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.example.features.search.AddItemToCart.add_to_cart_test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Login" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.example.features.search.Login&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Login.login_invalid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.example.features.search.Login.login_invalid&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Login.test_login_invalid" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.example.features.search.Login.test_login_invalid&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'org.example.features.search'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;org.example.features.search.*&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="VVSSLab5V4 [verify]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="verify" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Login" />
+      <item itemvalue="Gradle.Login.test_login_invalid" />
+      <item itemvalue="Gradle.Login.login_invalid" />
+      <item itemvalue="Gradle.AddItemToCart.add_to_cart_test" />
+      <item itemvalue="Gradle.Tests in 'org.example.features.search'" />
+      <item itemvalue="Maven.VVSSLab5V4 [verify]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'org.example.features.search'" />
+        <item itemvalue="Gradle.AddItemToCart.add_to_cart_test" />
+        <item itemvalue="Gradle.Login" />
+        <item itemvalue="Gradle.Login.test_login_invalid" />
+        <item itemvalue="Gradle.Login.login_invalid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30e74385-3f24-4f46-a60c-0448dc3149ae" name="Default Changelist" comment="" />
+      <created>1588786315469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588786315469</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="636" y="208" key="#VVSSLab5V4_[verify]" timestamp="1588788950864">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="636" y="208" key="#VVSSLab5V4_[verify]/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588788950864" />
+    <state x="636" y="208" key="#VVSSLab5V4_[verify]_(1)" timestamp="1588787080827">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="636" y="208" key="#VVSSLab5V4_[verify]_(1)/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588787080827" />
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588789103344">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588789103344" />
+    <state x="666" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588789255584">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="666" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588789255584" />
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588800406943">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="755" y="303" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588800406943" />
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1588794478539">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588794478539" />
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1589665516339">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1589665516339" />
+    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1589665516338">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.center/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1589665516338" />
+    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1589665516337">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.left/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1589665516337" />
+    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1589665516338">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.right/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1589665516338" />
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1588796305258">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.bottom/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588796305258" />
+    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1588796305258">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.center/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588796305258" />
+    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1588796305258">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.left/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588796305258" />
+    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1588796305258">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="376" key="GridCell.Tab.1.right/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588796305258" />
+    <state x="505" y="130" key="SettingsEditor" timestamp="1589657616977">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="505" y="130" key="SettingsEditor/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1589657616977" />
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1588796326699">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="721" y="380" key="com.intellij.ide.util.TipDialog/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588796326699" />
+    <state x="681" y="259" width="672" height="677" key="run.anything.popup" timestamp="1588805131171">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="681" y="259" width="672" height="677" key="run.anything.popup/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588805131171" />
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1588804539395">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="687" y="243" width="672" height="678" key="search.everywhere.popup/-1920.358.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1588804539395" />
+  </component>
+</project>
